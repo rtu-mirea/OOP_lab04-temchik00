@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7a81694d-e194-496e-bb33-3d2cc18f75c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-4/com/company/Main1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-4/com/company/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-4/com/company/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-4/com/company/Main4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/FileHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Sportsman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/Sportsman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task4/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4/Main4.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.Main4">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Task1.Main1" />
       <module name="Lab-4" />
@@ -90,8 +81,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4.Main4" />
+      <module name="Lab-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main4" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main" />
